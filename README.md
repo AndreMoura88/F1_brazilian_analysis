@@ -1,4 +1,12 @@
 # Um breve história brasileira na Fórmula 1
+
+
+<p align="center">
+  <img src="https://github.com/AndreMoura88/F1_brazilian_analysis/blob/main/Pictures/6671.jpg">
+</p>  
+Fonte da imagem: https://www.revistacar.es/magazine-noticia/brasilenos-la-formula-1  
+<br>
+<br>
 A Fórmula 1 é uma das grandes paixões dos brasileiros nos esportes.
 Essa paixão em massa pode ter iniciado com Emerson Fittipaldi lá nos anos 70, quando ele alcançou sua primeira vitória e chegou ao seu primeiro título poucos anos depois, em 1972. E essas histórias podem ser acompanhadas em séries e documentários já publicados sobre as conquistas dos brasileiros na F1. Mas falando em dados e indo além dos grandes nomes como: Fittipaldi, Senna e Piquet, **quando** surgiu o primeiro brasileiro na F1? Qual seu **desempenho**? Quantos passaram pela categoria? Como é o **histórico geral** do Brasil nessa categoria? Várias perguntas não são usualmente respondidas pelas grandes mídias vão ser respondidas aqui.  
 
